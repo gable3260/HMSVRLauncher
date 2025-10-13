@@ -1,6 +1,6 @@
-appId: 'mrslauncher'
-productName: 'MRS Launcher'
-artifactName: 'MRS-Launcher-setup-${version}.${ext}'
+appId: 'HMSVRlauncher'
+productName: 'HMSVR Launcher'
+artifactName: 'HMSVR-Launcher-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2024 Daniel Scalzi, Copyright © 2024 peunsu'
 
@@ -33,7 +33,7 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: 'MRS-Launcher-setup-${version}-${arch}.${ext}'
+  artifactName: 'HMSVR-Launcher-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration
